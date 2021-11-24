@@ -1,0 +1,16 @@
+C:\Users\Artem\Desktop\HomeTask_3\bin\Debug\net5.0\HomeTask_3.exe
+C:\Users\Artem\Desktop\HomeTask_3\bin\Debug\net5.0\HomeTask_3.deps.json
+C:\Users\Artem\Desktop\HomeTask_3\bin\Debug\net5.0\HomeTask_3.runtimeconfig.json
+C:\Users\Artem\Desktop\HomeTask_3\bin\Debug\net5.0\HomeTask_3.runtimeconfig.dev.json
+C:\Users\Artem\Desktop\HomeTask_3\bin\Debug\net5.0\HomeTask_3.dll
+C:\Users\Artem\Desktop\HomeTask_3\bin\Debug\net5.0\ref\HomeTask_3.dll
+C:\Users\Artem\Desktop\HomeTask_3\bin\Debug\net5.0\HomeTask_3.pdb
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\HomeTask_3.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\HomeTask_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\HomeTask_3.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\HomeTask_3.AssemblyInfo.cs
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\HomeTask_3.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\HomeTask_3.dll
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\ref\HomeTask_3.dll
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\HomeTask_3.pdb
+C:\Users\Artem\Desktop\HomeTask_3\obj\Debug\net5.0\HomeTask_3.genruntimeconfig.cache
