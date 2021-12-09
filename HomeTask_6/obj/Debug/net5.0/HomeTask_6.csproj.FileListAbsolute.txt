@@ -1,0 +1,15 @@
+C:\Users\Artem\Desktop\HomeTask_6\bin\Debug\net5.0\HomeTask_6.exe
+C:\Users\Artem\Desktop\HomeTask_6\bin\Debug\net5.0\HomeTask_6.deps.json
+C:\Users\Artem\Desktop\HomeTask_6\bin\Debug\net5.0\HomeTask_6.runtimeconfig.json
+C:\Users\Artem\Desktop\HomeTask_6\bin\Debug\net5.0\HomeTask_6.runtimeconfig.dev.json
+C:\Users\Artem\Desktop\HomeTask_6\bin\Debug\net5.0\HomeTask_6.dll
+C:\Users\Artem\Desktop\HomeTask_6\bin\Debug\net5.0\ref\HomeTask_6.dll
+C:\Users\Artem\Desktop\HomeTask_6\bin\Debug\net5.0\HomeTask_6.pdb
+C:\Users\Artem\Desktop\HomeTask_6\obj\Debug\net5.0\HomeTask_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\HomeTask_6\obj\Debug\net5.0\HomeTask_6.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\HomeTask_6\obj\Debug\net5.0\HomeTask_6.AssemblyInfo.cs
+C:\Users\Artem\Desktop\HomeTask_6\obj\Debug\net5.0\HomeTask_6.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\HomeTask_6\obj\Debug\net5.0\HomeTask_6.dll
+C:\Users\Artem\Desktop\HomeTask_6\obj\Debug\net5.0\ref\HomeTask_6.dll
+C:\Users\Artem\Desktop\HomeTask_6\obj\Debug\net5.0\HomeTask_6.pdb
+C:\Users\Artem\Desktop\HomeTask_6\obj\Debug\net5.0\HomeTask_6.genruntimeconfig.cache
